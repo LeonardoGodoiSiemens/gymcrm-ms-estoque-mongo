@@ -44,6 +44,3 @@ Docker: `docker build -t <usuario>/gymcrm/ms-estoque:v1 .` → `docker login` �
 
 ## MongoDB Atlas
 Cluster M0 → *Database Access* (usuário/senha) → *Network Access* (`0.0.0.0/0` para a atividade) → *Connect → Drivers* (copiar a URI).
-
-## Links (preencher após o deploy)
-Serviço: [URL] · Swagger: [URL]/swagger · Docker Hub: [URL] · Repositório: [URL]
